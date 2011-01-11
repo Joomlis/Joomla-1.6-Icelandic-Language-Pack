@@ -1,0 +1,11 @@
+ ## Þetta er Íslenskur tungumálapakki fyrir Joomla 1.6 Installation ##
+
+ Það eru fleiri en ein leið til að setja þetta upp.
+
+## SSH + GIT, ferð í tungumalamöppu Joomla (installation/language) og sendir skipunina.
+ # git clone git://github.com/Joomlis/Joomla-1.6-Icelandic-Language-Pack.git is-IS -b install
+## Ef þú notar þessa aðferð, þá uppfæriru pakkann með því að fara inní is-IS möppuna og keyra
+ # git pull
+
+## Ferð á https://github.com/Joomlis/Joomla-1.6-Icelandic-Language-Pack velur branch "install" og smellir á Download.
+## Ef Þú notar þessa aðferð, þá uppfærir með því að sækja pakkann aftur og upploada a serverinn þinn.
