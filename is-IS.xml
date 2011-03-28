@@ -2,7 +2,7 @@
 <!-- $Id -->
 <metafile version="1.6"  client="site">
 	<name>Íslenska</name>
-	<version>1.6.0</version>
+	<version>1.6.1</version>
 	<creationDate>2011-01-06</creationDate>
 	<author>Joomlís</author>
 	<authorEmail>joomlis@joomlis.net</authorEmail>
@@ -21,6 +21,7 @@
 		<filename>is-IS.com_users.ini</filename>
 		<filename>is-IS.com_weblinks.ini</filename>
 		<filename>is-IS.com_wrapper.ini</filename>
+		<filename>is-IS.files_joomla.sys.ini</filename>
 		<filename>is-IS.ini</filename>
 		<filename>is-IS.localise.php</filename>
 		<filename>is-IS.mod_articles_archive.ini</filename>
@@ -77,7 +78,7 @@
 		<filename>is-IS.tpl_beez5.sys.ini</filename>
 	</files>
 	<metadata>
-		<name>Íslenska</name>
+		<name>Íslenska (IS)</name>
 		<tag>is-IS</tag>
 		<rtl>0</rtl>
 		<locale>is_IS.utf8, is_IS.UTF-8, is_IS, is_IS.iso88591, is_IS.ISO8859-1, is_IS.ISO8859-15, ISO-8859-1, ISO-8859-15, UTF-8, isl_IS, icelandic, Icelandic, icelandic-is, is, IS, isl, iceland, íslenska</locale>
