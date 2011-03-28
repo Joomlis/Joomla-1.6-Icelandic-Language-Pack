@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-	<!-- $Id: en-GB.xml 14543 2010-02-04 04:29:34Z eddieajau $ -->
+	<!-- $Id: is-IS.xml 20375 $ -->
 <metafile
 	version="1.6"
 	client="installation">
 	<name>Icelandic</name>
-	<version>1.6.0</version>
+	<version>1.6.1</version>
 	<creationDate>2011-01-11</creationDate>
 	<author>Joomlís</author>
 	<authorEmail>joomlis@joomlis.net</authorEmail>
-	<authorUrl>joomlis.net</authorUrl>
+	<authorUrl>www.joomlis.net</authorUrl>
 	<copyright>Copyright (C) 2011 Joomlis. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<description></description>
